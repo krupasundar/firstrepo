@@ -1,0 +1,12 @@
+git status
+git add .
+git commit -m "first file"
+git status
+git log
+git config --global
+git config --mail id
+git status
+git remote -v
+git push origin master/branch
+
+
